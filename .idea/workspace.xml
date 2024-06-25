@@ -21,7 +21,7 @@
 }]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/manu-kuppian/wealthy.git",
+    "url": "https://github.com/manu-kuppian/x-wealth.git",
     "accountId": "14f9e303-b0f4-4480-9e3c-e0feb0a06f57"
   }
 }]]></component>
@@ -29,6 +29,7 @@
   "associatedIndex": 5
 }]]></component>
   <component name="ProjectId" id="2iMoJro5b537IN6gudDf5sLjKdd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
